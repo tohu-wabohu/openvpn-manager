@@ -1,4 +1,4 @@
-set_var EASYRSA_REQ_COUNTRY	 "LT"
+set_var EASYRSA_REQ_COUNTRY  "LT"
 set_var EASYRSA_REQ_PROVINCE "California"
 set_var EASYRSA_REQ_CITY     "San Francisco"
 set_var EASYRSA_REQ_ORG      "Copyleft Certificate Co"
